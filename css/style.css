@@ -19,3 +19,11 @@ h3{
     text-align: center;
     font-size: 25px;
 }
+header {
+    height: 20vh;
+}
+main{
+    height: 70vh;
+    width: 90%;
+    margin: auto;
+}
